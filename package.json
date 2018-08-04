@@ -8,7 +8,7 @@
     "build": "webpack --config ./server/webpack.prod.js --progress -p && node ./server/server_prod.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "kishore",
   "license": "ISC",
   "dependencies": {
     "path": "^0.12.7",
